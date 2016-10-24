@@ -1,0 +1,2 @@
+# HadoopWithPython
+Hadoop is mostly written in Java, but that doesn't exclude the use of other programming languages with this distributed storage and processing framework, particularly Python. With this concise book, you'll learn how to use Python with the Hadoop Distributed File System (HDFS), MapReduce, the Apache Pig platform and Pig Latin script, and the Apache Spark cluster-computing framework.
